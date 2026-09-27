@@ -1,0 +1,1 @@
+Component folder contains reusable layout, tables, invoice item editor, totals, payment form and pagination components.

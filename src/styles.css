@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f5f7fa;
+  font-family: Inter, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+select {
+  padding: 9px;
+  border: 1px solid #cbd5dc;
+  border-radius: 6px;
+  background: #fff;
+  min-height: 40px;
+}
+
+.MuiTableCell-root {
+  white-space: nowrap;
+}

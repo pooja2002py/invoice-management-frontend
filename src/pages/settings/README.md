@@ -1,0 +1,1 @@
+All settings tabs from the supplied Ultrakey screenshots are separated into individual React files.
